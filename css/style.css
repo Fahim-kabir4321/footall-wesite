@@ -5,7 +5,7 @@ body{
     margin: 0;
 }
 
-/*----------Navbar CSS----------*/
+
 
 .navbar{
     background-color: #2D25A0;
@@ -64,13 +64,13 @@ body{
     color: #fff;
 }
 
-/*----------Navbar Hover----------*/
+
 
 .menu li:hover{
     transform: scale(1.15);
 }
 
-/*----------Top Banner CSS----------*/
+
 
 .banner{
     padding-top: 50px;
@@ -133,7 +133,7 @@ body{
     transition: transform 1s ease-in-out, padding-bottom 1s ease-in-out, padding-top 1s ease-in-out;
 }
 
-/*----------Banner Hover Effects----------*/
+
 
 .banner:hover .generic-player{
     padding-top: 50px;
@@ -150,7 +150,7 @@ body{
     margin-left: -23px;
 }
 
-/*----------Player Cards CSS----------*/
+
 
 .player-cards{
     display: grid;
@@ -219,7 +219,7 @@ body{
     text-align: justify;
 }
 
-/*----------Player Cards Hover Effects----------*/
+
 
 .player:hover .p-img-1{
     transform: scale(1.2);
@@ -229,7 +229,7 @@ body{
     color: #E02C6D;
 }
 
-/*----------Bottom Banner CSS----------*/
+
 
 .bot-banner{
     margin-top: 165px;
@@ -300,13 +300,12 @@ body{
     width: 600px;
 }
 
-/*----------Bottom Banner Hover Effect----------*/
+
 
 .bot-banner:hover .bot-banner-head{
     color: #E02C6D;
 }
 
-/*----------Footer CSS----------*/
 
 .footer{
     margin-top: 160px;
